@@ -1,5 +1,5 @@
 ## DESCRIPTION
-Ini adalah personal website yang saya buat menggunakan **HTML** dan **CSS** dalam mata kuliah **Web dan Mobile Programming** 
+Ini adalah personal website yang saya buat menggunakan **HTML** dan **CSS**, untuk memenuhi tugas kuis 1 dalam mata kuliah **Web dan Mobile Programming** 
 
 Web ini terdiri dari:
 - Cover
