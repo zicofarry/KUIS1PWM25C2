@@ -45,7 +45,7 @@ img {
     font-weight: 700;
     text-align: center;
     margin-bottom: 3rem;
-    color: #7DF9FF; /* text-glow color */
+    color: #7DF9FF; 
     text-shadow: 0 0 8px rgba(125, 249, 255, 0.5);
 }
 
@@ -169,16 +169,16 @@ img {
 .hero-subtitle {
     margin-top: 1rem;
     font-size: 1.125rem;
-    color: #94a3b8; /* slate-400 */
+    color: #94a3b8;
 }
 
 .hero-button {
     margin-top: 2rem;
-    background-color: #06b6d4; /* cyan-500 */
+    background-color: #06b6d4;
 }
 
 .hero-button:hover {
-    background-color: #0891b2; /* cyan-600 */
+    background-color: #0891b2;
 }
 
 /* About Section */
@@ -237,7 +237,7 @@ img {
 
 .card-description {
     margin-top: 0.5rem;
-    color: #94a3b8; /* slate-400 */
+    color: #94a3b8;
     font-size: 0.875rem;
 }
 
@@ -265,34 +265,34 @@ img {
 }
 
 .contact-button {
-    flex: 1;             /* tombol isi ruang sama rata */
+    flex: 1;
     justify-content: center;
-    display: flex;                  /* flex */
-    align-items: center;            /* items-center */
-    color: #a1a1aa;                 /* text-star-light (ini contoh, sesuaikan warnanya di theme) */
-    transition: all 0.3s ease;      /* transition-all duration-300 */
+    display: flex; 
+    align-items: center;
+    color: #a1a1aa;
+    transition: all 0.3s ease;
     
-    background-color: rgba(30, 41, 59, 0.3); /* bg-space-blue/30 */
-    backdrop-filter: blur(4px);     /* backdrop-blur-sm */
+    background-color: rgba(30, 41, 59, 0.3);
+    backdrop-filter: blur(4px);
     
-    padding: 0.75rem 1.5rem;        /* px-6 py-3 */
-    border-radius: 0.5rem;          /* rounded-lg */
-    border: 1px solid rgba(30, 41, 59, 0.5); /* border-space-blue/50 */
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid rgba(30, 41, 59, 0.5);
     
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* shadow-lg */
-    font-weight: 500;               /* font-medium */
-    font-size: 0.875rem;            /* text-sm */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    font-weight: 500;
+    font-size: 0.875rem;
     
-    gap: 0.75rem;                   /* gap-3 (0.75rem) */
+    gap: 0.75rem;
 }
 
 .contact-button:hover {
-    color: #3b82f6;                 /* hover:text-accent-blue */
-    background-color: rgba(59, 130, 246, 0.2); /* hover:bg-accent-blue/20 */
-    border-color: rgba(59, 130, 246, 0.5);     /* hover:border-accent-blue/50 */
+    color: #3b82f6;
+    background-color: rgba(59, 130, 246, 0.2);
+    border-color: rgba(59, 130, 246, 0.5);
     
-    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.25); /* hover:shadow-xl */
-    transform: translateY(-0.25rem); /* hover:-translate-y-1 */
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.25);
+    transform: translateY(-0.25rem);
 }
 
 .contact-button .icon {
@@ -312,7 +312,7 @@ img {
 
 /* Footer */
 .footer {
-    border-top: 1px solid #1e293b; /* slate-800 */
+    border-top: 1px solid #1e293b;
 }
 
 .footer-content {
@@ -320,7 +320,7 @@ img {
     padding-bottom: 1.5rem;
     text-align: center;
     font-size: 0.875rem;
-    color: #64748b; /* slate-500 */
+    color: #64748b;
 }
 
 .footer-content p:last-child {
